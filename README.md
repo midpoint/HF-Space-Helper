@@ -1,9 +1,19 @@
-# Hugging Face空间状态历史记录
+# 使用指南：
+1. 先fork本项目
+2. 设置两个环境变量：
+https://github.com/用户名/HF-Space-Helper/settings/secrets/actions
 
+|变量名|含义|设置地址|
+|---|---|---|
+|HF_TOKEN|huggingface的Access Tokens(write)|https://huggingface.co/settings/tokens|
+|USERNAME|huggingface的用户名|上面这个网址的左上角显示的用户名|
+
+3. 设置pages
+   -   ![1.png](https://img520.com/gEEu81.png)
+  
+4. 运行action
+
+# Hugging Face空间状态历史记录
 | 日期 
 |---|
-| [2024-12-30](https://github.com/fmapi/HF-Space-Helper/commits/b5d2feb8699c6fe301849f70310f1ad7dd3b9253/docs/index.html) |  |
-| [2024-12-30](https://github.com/fmapi/HF-Space-Helper/commits/017767f46249c7680a504c92300cb6f9353efbd7/docs/index.html) |  |
-| [2024-12-30](https://github.com/fmapi/HF-Space-Helper/commits/bf21b3e3c0f1fdfb6e15efbee8d595c5a4328246/docs/index.html) |  |
-| [2024-12-30](https://github.com/fmapi/HF-Space-Helper/commits/4cc12fcd93980f13ef785e59b1738e6be9087220/docs/index.html) |  |
 | [2024-12-30](https://github.com/midpoint/HF-Space-Helper/commits/8733bde4926ae41d6a6729f2b57c354f618d8c88/docs/index.html) |  |
