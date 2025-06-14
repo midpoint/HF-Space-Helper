@@ -1020,3 +1020,4 @@ https://github.com/用户名/HF-Space-Helper/settings/secrets/actions
 | [2025-06-14](https://github.com/midpoint/HF-Space-Helper/commits/b258e2ca0cb0e541fd98c24b0ca78a907921c006/docs/index.html) |  |
 | [2025-06-14](https://github.com/midpoint/HF-Space-Helper/commits/84de03015d63776e92bda0a3c4a21edb869e473e/docs/index.html) |  |
 | [2025-06-14](https://github.com/midpoint/HF-Space-Helper/commits/8d92ca03cb5edaa83a744b6b77b432e3f95772dc/docs/index.html) |  |
+| [2025-06-15](https://github.com/midpoint/HF-Space-Helper/commits/2bc9068b7c51c2d2cc4b058070afcee27cbcc71e/docs/index.html) |  |
